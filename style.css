@@ -1,0 +1,16 @@
+.red{
+    background-color: red;
+}
+
+.yellow{
+    color: yellow;
+}
+
+#firstDiv{
+    background-color: blueviolet;
+}
+
+#secondDiv{
+    background-color: palevioletred;
+    color: blue;
+}
